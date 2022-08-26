@@ -13,18 +13,19 @@ about:
 ---
 
 ## Education/Work Background
-
+I have completed my Bachelors in Sociology and Anthropology, minors in Economics from St. Xavier's College, Mumbai, India.I am currently also the co-founder of CrowdHive, a reward based crowdfunding platform. I am also the co-author of 'Crowdfunding: The Story of People' the first book on crowdfunding and its impact on the development sector. 
 
 ## R experience
-
+I am a beginner in R 
 
 ## Research interests
-
+My research interests lie in Community Building, Start ups and Gender Studies
 
 ## Hometown
-
+Mumbai, India
 
 ## Hobbies
-
+Swimming, Reading
 
 ## Fun fact
+I am mortally afraid of Frogs 
